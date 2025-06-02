@@ -1,9 +1,9 @@
 """
 =======================================================
-🛠️  Developed by Abdulaziz Alabdulwahab
-📧  Email: alabdulwahab01@gmail.com
-📅  Year: 2025
-🔒  All Rights Reserved. Do not distribute without permission.
+Developed by Abdulaziz Alabdulwahab
+Email: alabdulwahab01@gmail.com
+Year: 2025
+All Rights Reserved. Do not distribute without permission.
 =======================================================
 """
 
