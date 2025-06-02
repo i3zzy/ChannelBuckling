@@ -4,7 +4,7 @@
 📧 Email: alabdulwahab01@gmail.com  
 © 2025 — All Rights Reserved
 
-![Logo](\logo.png)
+![Logo](Logo.png)
 ---
 
 ## 📚 Description
