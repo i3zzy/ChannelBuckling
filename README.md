@@ -42,4 +42,5 @@ See `LICENSE.txt` for full terms.
 ## 💬 Questions?
 
 Feel free to reach out via email.
+Happy FE ;)
 
