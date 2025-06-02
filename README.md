@@ -4,7 +4,7 @@
 📧 Email: alabdulwahab01@gmail.com  
 © 2025 — All Rights Reserved
 
-![Logo](logo.png)
+![Logo](\logo.png)
 ---
 
 ## 📚 Description
@@ -43,5 +43,6 @@ See `LICENSE.txt` for full terms.
 ## 💬 Questions?
 
 Feel free to reach out via email.
+
 Happy FE ;)
 
