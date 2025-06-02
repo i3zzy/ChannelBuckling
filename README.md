@@ -3,7 +3,7 @@
 🛠️ Developed by **Abdulaziz Alabdulwahab**  
 📧 Email: alabdulwahab01@gmail.com  
 © 2025 — All Rights Reserved
-
+![Logo](logo.png)
 ---
 
 ## 📚 Description
@@ -36,12 +36,6 @@ See `LICENSE.txt` for full terms.
 2. Run `main_script.py` from File → Run Script.
 3. Enter your parameters in the popup window.
 4. Results will be shown in the console.
-
----
-
-## 🖼️ Logo
-
-![Logo](logo.png)
 
 ---
 
