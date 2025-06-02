@@ -1,10 +1,10 @@
 # Shear Buckling of Thin-Walled Channel Sections
 
+![Logo](Logo.png)
 🛠️ Developed by **Abdulaziz Alabdulwahab**  
 📧 Email: alabdulwahab01@gmail.com  
 © 2025 — All Rights Reserved
 
-![Logo](Logo.png)
 ---
 
 ## 📚 Description
