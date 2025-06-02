@@ -1,0 +1,11 @@
+Educational Use License
+
+This software was developed by Abdulaziz Alabdulwahab (alabdulwahab01@gmail.com).
+
+This code is provided for educational and academic use only. It may be used, studied, and modified
+for non-commercial research and learning purposes.
+
+Commercial use, redistribution, or incorporation into commercial products or services is strictly
+prohibited without prior written permission from the author.
+
+All rights reserved © 2025 Abdulaziz Alabdulwahab
