@@ -1,4 +1,4 @@
-# Shear Buckling of Thin-Walled Channel Sections
+# Shear Buckling of Stiffened Perforated Thin-Walled Channel Sections
 
 ![Logo](Logo.png)
 | Developed by **Abdulaziz Alabdulwahab**  
@@ -9,7 +9,7 @@
 
 ## 📚 Description
 
-This Python script automates the modeling, meshing, and shear buckling analysis of thin-walled cold-formed steel channel sections using **Abaqus CAE**. It includes customizable input parameters, mesh generation, buckling load calculation, and output of `Tau_cr` and `k_v`.
+This Python script automates the modeling, meshing, and shear buckling analysis of Stiffened Perforated thin-walled cold-formed steel channel sections using **Abaqus CAE**. It includes customizable input parameters, mesh generation, buckling load calculation, and output of `Tau_cr` and `k_v`.
 
 ---
 
